@@ -36,4 +36,4 @@
     - Building a classification model and Demonstrating various data augmentation techniques for video data using augly.
    
 
-Video Link : https://youtu.be/-Kp0EJeCstc
+Video Link : https://youtu.be/iq39xgDjF9o
