@@ -34,3 +34,6 @@
 
 11. Classification_and_Data_Augmentation_Video.ipynb
     - Building a classification model and Demonstrating various data augmentation techniques for video data using augly.
+   
+
+Video Link : https://youtu.be/-Kp0EJeCstc
